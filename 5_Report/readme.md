@@ -1,10 +1,12 @@
 # About this project :
-* it is a project of Examination Management System.
-* Teachers can take exam by setting questions of different courses.
-* Students can create an account.
-* Students can take part in examination.
-* Students can get results as PDF File
-* Gives Rating after every exam.
+* Details of a Student's Attendance can be added or removed. Students are being monitored.
+* Eligibility criteria for exams can be created/modified.
+* Exam Eligibility
+* Make a copy of all the pupils' records.
+
+
+# idea:
+* The goal is to create a unique function for each operation. To construct software, all of the functions are bundled together with switch cases. The functions are depicted below:
 
 # IMPORTANCE OF THIS PROJECT :
 * Saves the efforts and time of both teacher and students.
