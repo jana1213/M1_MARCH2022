@@ -1,2 +1,5 @@
-# M1_MARCH2022
-M1_PROJECT_EXAMINATION DATA
+# c course
+# git
+# ndg linux
+# first day on github
+# certificates were  uploaded above
