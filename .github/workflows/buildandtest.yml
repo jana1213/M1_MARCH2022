@@ -1,0 +1,22 @@
+name: buildand test
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: configure
+      run: ./configure
+    - name: build
+      run: ./buildandtest
+    - name: run
+      run: ./buildandtest
+    
